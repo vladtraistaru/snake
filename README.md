@@ -13,3 +13,7 @@ Inside the main menu:
 Text is writtten in Romanian, accepting translations :)
 
 And if you are able to compile it, let me know!
+
+![main menu](https://github.com/vladtraistaru/snake/blob/main/screenshots/1.jpg?raw=true)
+![game screen](https://github.com/vladtraistaru/snake/blob/main/screenshots/2.jpg?raw=true)
+
