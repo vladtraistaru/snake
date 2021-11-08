@@ -15,8 +15,10 @@ Text is writtten in Romanian, accepting translations :)
 And if you are able to compile it, let me know!
 
 The main menu:
+
 ![main menu](https://github.com/vladtraistaru/snake/blob/main/screenshots/1.jpg?raw=true)
 
 The game screen:
+
 ![game screen](https://github.com/vladtraistaru/snake/blob/main/screenshots/2.jpg?raw=true)
 
