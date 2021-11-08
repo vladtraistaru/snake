@@ -1,5 +1,5 @@
 # snake
-Classical snake game writen in C around 2001, when I was in highschool, using the Borland C++ 3.1 editor and some VGA graphics driver.
+The classical Snake game writen in C around 2001, when I was in highschool, using the Borland C++ 3.1 editor and some VGA graphics driver.
 
 Execute the SNAKE.EXE file using DOSBox (https://sourceforge.net/projects/dosbox/) after you mount your drive inside DOS ( 'mount C C:/').
 
@@ -14,6 +14,9 @@ Text is writtten in Romanian, accepting translations :)
 
 And if you are able to compile it, let me know!
 
+The main menu:
 ![main menu](https://github.com/vladtraistaru/snake/blob/main/screenshots/1.jpg?raw=true)
+
+The game screen:
 ![game screen](https://github.com/vladtraistaru/snake/blob/main/screenshots/2.jpg?raw=true)
 
